@@ -1,0 +1,9 @@
+>docker images :shows all image
+docker pull image_name : pulls an image
+docker run ubuntu : runs an image
+docker ps -a : lists all running and stopped containers
+docker start containerId :stats a container
+docker stop images : stops 
+docker images : shows all pulled images
+docker rm containerId -f : removes the container
+  
